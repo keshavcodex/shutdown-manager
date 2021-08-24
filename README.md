@@ -3,4 +3,4 @@
 - shutdown (in 2 minutes)
 - restart (instantly)
 
-**The windows firewall defender might suggest it as a virus because of exe file, but you can see the source to confirm. And if you want you can use the source code only and compile by you own in any IDE (e.g. VScode).**
+**The windows firewall defender might suggest it as a virus because of exe file, but you can see the source to confirm. And if you want you can use the source code only and compile by your own in any IDE (e.g. VScode).**
